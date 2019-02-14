@@ -1,1 +1,3 @@
-From centos:7
+FROM centos:7
+
+CMD yum install -y jenkins
